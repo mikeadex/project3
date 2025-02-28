@@ -1,6 +1,6 @@
 # Ella: Project Evolution Journey 🚀
 
-## 🌈 Project Transformation Across Iterations
+##  Project Transformation Across Iterations
 
 ### 🔹 First Iteration: Static HTML & CSS
 **Repository**: [full-stack-projects](https://github.com/mikeadex/full-stack-projects)
